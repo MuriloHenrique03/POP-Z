@@ -6,4 +6,4 @@ e depois vem as músicas mais famosas que assim que você clicar será redirenci
 
 # O que pretendo mudar
 
-Ao abri a página pelo celular percebi que a reposividade não ficou legal também pretendo alterar o tamanho do icon e da logo.
+Ao abrir a página pelo celular percebi que a reposividade não ficou legal, também pretendo alterar o tamanho do icon e da logo.
