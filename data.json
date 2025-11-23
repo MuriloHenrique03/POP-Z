@@ -1,0 +1,585 @@
+[
+  {
+    "nome": "Beyoncé",
+    "descricao": "Cantora, compositora e atriz americana, conhecida por suas performances elaboradas e por ser uma das artistas mais premiadas da história.",
+    "idade": "1981",
+    "link": "https://pt.wikipedia.org/wiki/Beyonc%C3%A9",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m",
+    "albunsFamosos": [
+      { "nome_album": "COWBOY CARTER", "url": "https://open.spotify.com/album/6BzxX6zkDsYpS9f1TfEa4P" },
+      { "nome_album": "Lemonade", "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF" },
+      { "nome_album": "RENAISSANCE", "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb" },
+      { "nome_album": "I Am... Sasha Fierce", "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Crazy In Love", "url": "https://open.spotify.com/track/5IVuqXILiCXxK4NFma2vEa" },
+      { "nome_musica": "Halo", "url": "https://open.spotify.com/track/4JehY2660bZc448fBlR8GW" },
+      { "nome_musica": "Single Ladies (Put a Ring on It)", "url": "https://open.spotify.com/track/5R9a4t5t5yKguDyPnNETtick" }
+    ]
+  },
+  {
+    "nome": "Rihanna",
+    "descricao": "Cantora, empresária e atriz barbadense, conhecida por sua influência na música pop e por seu sucesso no mundo dos cosméticos com a Fenty Beauty.",
+    "idade": "1988",
+    "link": "https://pt.wikipedia.org/wiki/Rihanna",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H",
+    "albunsFamosos": [
+      { "nome_album": "Anti", "url": "https://open.spotify.com/album/48iU2p3alNbd66AM3d3C3q" },
+      { "nome_album": "Good Girl Gone Bad: Reloaded", "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7" },
+      { "nome_album": "Loud", "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Umbrella", "url": "https://open.spotify.com/track/49FYlytm3dAAraYgktlar2" },
+      { "nome_musica": "Diamonds", "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx" },
+      { "nome_musica": "We Found Love", "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9wkKh9B" }
+    ]
+  },
+  {
+    "nome": "Taylor Swift",
+    "descricao": "Cantora e compositora americana, conhecida por suas composições narrativas sobre sua vida pessoal.",
+    "idade": "1989",
+    "link": "https://pt.wikipedia.org/wiki/Taylor_Swift",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+    "albunsFamosos": [
+      { "nome_album": "1989 (Taylor's Version)", "url": "https://open.spotify.com/album/64vorAouB05QOk2a6h3p9d" },
+      { "nome_album": "Midnights", "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A" },
+      { "nome_album": "folklore", "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Blank Space", "url": "https://open.spotify.com/track/1u8c2t2dt7U0fWIKI4whUH" },
+      { "nome_musica": "Anti-Hero", "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8ps2o4aT" },
+      { "nome_musica": "Shake It Off", "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD" }
+    ]
+  },
+  {
+    "nome": "Lady Gaga",
+    "descricao": "Cantora, compositora e atriz americana, conhecida por sua versatilidade em gêneros musicais e apresentações chamativas.",
+    "idade": "1986",
+    "link": "https://pt.wikipedia.org/wiki/Lady_Gaga",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
+    "albunsFamosos": [
+      { "nome_album": "The Fame Monster", "url": "https://open.spotify.com/album/6NBs02p1f2k4PZ2aRGHb2b" },
+      { "nome_album": "Born This Way", "url": "https://open.spotify.com/album/2KkMVs3LdK8B0mG333x3N4" },
+      { "nome_album": "A Star Is Born Soundtrack", "url": "https://open.spotify.com/album/4s3cNrV20s5c3iZAUhC3eB" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Bad Romance", "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCgH" },
+      { "nome_musica": "Poker Face", "url": "https://open.spotify.com/track/1QV6tiMFM6fSOK3TPGkYvH" },
+      { "nome_musica": "Shallow", "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B" }
+    ]
+  },
+  {
+    "nome": "Adele",
+    "descricao": "Cantora e compositora britânica, uma das artistas recordistas de vendas no mundo.",
+    "idade": "1988",
+    "link": "https://pt.wikipedia.org/wiki/Adele",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
+    "albunsFamosos": [
+      { "nome_album": "21", "url": "https://open.spotify.com/album/1AZUkThwdCvD3kGdprdVC4" },
+      { "nome_album": "25", "url": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF" },
+      { "nome_album": "30", "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Rolling in the Deep", "url": "https://open.spotify.com/track/4OSBv6y3n3m6d2n2i0840M" },
+      { "nome_musica": "Someone Like You", "url": "https://open.spotify.com/track_id/5lkZjpK3sY4fQQ6h7uIact" },
+      { "nome_musica": "Hello", "url": "https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv" }
+    ]
+  },
+  {
+    "nome": "Ariana Grande",
+    "descricao": "Cantora, compositora e atriz americana, conhecida por seu alcance vocal de quatro oitavas.",
+    "idade": "1993",
+    "link": "https://pt.wikipedia.org/wiki/Ariana_Grande",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
+    "albunsFamosos": [
+      { "nome_album": "thank u, next", "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw" },
+      { "nome_album": "Sweetener", "url": "https://open.spotify.com/album/3tx8gQqWbGm922ji1Dc4dM" },
+      { "nome_album": "Dangerous Woman", "url": "https://open.spotify.com/album/3pdKKSqqctFTiiBGVx2eSo" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "7 rings", "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF" },
+      { "nome_musica": "thank u, next", "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmW5av" },
+      { "nome_musica": "positions", "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0" }
+    ]
+  },
+  {
+    "nome": "Dua Lipa",
+    "descricao": "Cantora e compositora anglo-albanesa que ganhou popularidade mundial em 2017 com o sucesso 'New Rules'.",
+    "idade": "1995",
+    "link": "https://pt.wikipedia.org/wiki/Dua_Lipa",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we",
+    "albunsFamosos": [
+      { "nome_album": "Future Nostalgia", "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI" },
+      { "nome_album": "Dua Lipa (Complete Edition)", "url": "https://open.spotify.com/album/0obMz8EHnr3dg6NC9B12p9" },
+      { "nome_album": "Radical Optimism", "url": "https://open.spotify.com/album/2bH2qg2Z3g36bC52d1k526" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Don't Start Now", "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg" },
+      { "nome_musica": "New Rules", "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0" },
+      { "nome_musica": "Levitating (feat. DaBaby)", "url": "https://open.spotify.com/track/5nCcpcdpcqetA2aV4i3sWz" }
+    ]
+  },
+  {
+    "nome": "Madonna",
+    "descricao": "A Rainha do Pop, revolucionária cultural e mestre em reinvenção, ícone máximo para a comunidade LGBTQIAPN+ desde os anos 80, especialmente por popularizar a cultura voguing.",
+    "idade": "1958",
+    "link": "https://pt.wikipedia.org/wiki/Madonna",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FYf5ck",
+    "albunsFamosos": [
+      { "nome_album": "Like a Prayer", "url": "https://open.spotify.com/album/48AGkmM7iO4jrEL3sdK5gU" },
+      { "nome_album": "Ray of Light", "url": "https://open.spotify.com/album/6oRuCnqum2zHArU3sD6gqC" },
+      { "nome_album": "Confessions on a Dance Floor", "url": "https://open.spotify.com/album/1hg0pQJ213L452IvnZ6b2m" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Like a Prayer", "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4a2" },
+      { "nome_musica": "Vogue", "url": "https://open.spotify.com/track/27QvYgBk0CHO16XK2dD2Zg" },
+      { "nome_musica": "Hung Up", "url": "https://open.spotify.com/track/3850dYVgOFIXdUXtimingL" }
+    ]
+  },
+  {
+    "nome": "Cher",
+    "descricao": "Deusa do pop e do camp, conhecida por sua longevidade, figurinos icônicos e por ser uma feroz defensora dos direitos queer, um símbolo de resistência e glamour.",
+    "idade": "1946",
+    "link": "https://pt.wikipedia.org/wiki/Cher",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt",
+    "albunsFamosos": [
+      { "nome_album": "Believe", "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYfnkv" },
+      { "nome_album": "Heart of Stone", "url": "https://open.spotify.com/album/60Q5H9OJaMs0sFzImKF8jA" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Believe", "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR" },
+      { "nome_musica": "If I Could Turn Back Time", "url": "https://open.spotify.com/track/0x0y3j6x2x66Gv45B55I05" }
+    ]
+  },
+  {
+    "nome": "Britney Spears",
+    "descricao": "A Princesa do Pop, cuja música e trajetória se tornaram símbolos de liberdade e resistência, com uma base de fãs LGBTQIAPN+ extremamente leal que se identifica com sua busca por autonomia.",
+    "idade": "1981",
+    "link": "https://pt.wikipedia.org/wiki/Britney_Spears",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4",
+    "albunsFamosos": [
+      { "nome_album": "...Baby One More Time", "url": "https://open.spotify.com/album/3MjFRei5XTs5Wk2g2aL22z" },
+      { "nome_album": "Blackout", "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj" },
+      { "nome_album": "In The Zone", "url": "https://open.spotify.com/album/0z7pVBGOD72eKLg1GwgxKS" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "...Baby One More Time", "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa" },
+      { "nome_musica": "Toxic", "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak" },
+      { "nome_musica": "Gimme More", "url": "https://open.spotify.com/track/6ic8OlLzVms4zPwUx5r1FG" }
+    ]
+  },
+  {
+    "nome": "Christina Aguilera",
+    "descricao": "Cantora com um alcance vocal lendário, conhecida por seu ativismo, quebrar tabus sexuais com o álbum 'Stripped' e por ser um ícone de autoaceitação.",
+    "idade": "1980",
+    "link": "https://pt.wikipedia.org/wiki/Christina_Aguilera",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS",
+    "albunsFamosos": [
+      { "nome_album": "Stripped", "url": "https://open.spotify.com/album/2USarXf1vanEnD5B66p2C5" },
+      { "nome_album": "Back to Basics", "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8R1o044Vd" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Dirrty (feat. Redman)", "url": "https://open.spotify.com/track/59ZcMcf2a4PGD6d4g2G3e7" },
+      { "nome_musica": "Beautiful", "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG" },
+      { "nome_musica": "Genie in a Bottle", "url": "https://open.spotify.com/track/11mwFrKvLhHz4L4I76ToeB" }
+    ]
+  },
+  {
+    "nome": "Kylie Minogue",
+    "descricao": "A Princesa do Pop Australiana e Rainha da Discoteca, amada por seus hinos dançantes, sua estética camp e sua dedicação à música pop pura e efervescente.",
+    "idade": "1968",
+    "link": "https://pt.wikipedia.org/wiki/Kylie_Minogue",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA",
+    "albunsFamosos": [
+      { "nome_album": "Fever", "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu" },
+      { "nome_album": "Disco", "url": "https://open.spotify.com/album/72eGz2I9i7wYgY9i4Qc0m5" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Can't Get You Out of My Head", "url": "https://open.spotify.com/track/3E7ZwSZvmS83PYeHPKcFns" },
+      { "nome_musica": "Padam Padam", "url": "https://open.spotify.com/track/29ceftbJvPe83sSg2IeS4s" },
+      { "nome_musica": "All The Lovers", "url": "https://open.spotify.com/track/2jI3fo1nQ2vQ2q9Ewi2Qv0" }
+    ]
+  },
+  {
+    "nome": "Sam Smith",
+    "descricao": "Artista não-binário britânico, vencedor do Oscar e Grammy, que usa sua plataforma para discutir amor, identidade e quebra de normas de gênero na música pop.",
+    "idade": "1992",
+    "link": "https://pt.wikipedia.org/wiki/Sam_Smith",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI",
+    "albunsFamosos": [
+      { "nome_album": "In The Lonely Hour", "url": "https://open.spotify.com/album/08j2EgM4BpObyCBOjgd1wb" },
+      { "nome_album": "Gloria", "url": "https://open.spotify.com/album/1okorm03aW6S3J3g3AiB3d" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Unholy (feat. Kim Petras)", "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG" },
+      { "nome_musica": "Stay With Me", "url": "https://open.spotify.com/track/5Db9VIdDsN5yu3Eu7CT0i4" },
+      { "nome_musica": "I'm Not The Only One", "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN" }
+    ]
+  },
+  {
+    "nome": "Lil Nas X",
+    "descricao": "Ícone queer que revolucionou o hip-hop e o pop com ousadia, humor e representação aberta da sexualidade, desafiando expectativas sociais.",
+    "idade": "1999",
+    "link": "https://pt.wikipedia.org/wiki/Lil_Nas_X",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq",
+    "albunsFamosos": [
+      { "nome_album": "MONTERO", "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR" },
+      { "nome_album": "7 EP", "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "INDUSTRY BABY (feat. Jack Harlow)", "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK" },
+      { "nome_musica": "MONTERO (Call Me By Your Name)", "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd" },
+      { "nome_musica": "Old Town Road - Remix", "url": "https://open.spotify.com/track/2YpeDb6g8MeEgDssxqrjKT" }
+    ]
+  },
+  {
+    "nome": "Troye Sivan",
+    "descricao": "Cantor, compositor e ator australiano, abertamente gay, conhecido por letras sinceras sobre relacionamentos e vivências queer modernas no pop mainstream.",
+    "idade": "1995",
+    "link": "https://pt.wikipedia.org/wiki/Troye_Sivan",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP",
+    "albunsFamosos": [
+      { "nome_album": "Bloom", "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M" },
+      { "nome_album": "Something to Give Each Other", "url": "https://open.spotify.com/album/6D1S24a3D1kR90gP7Bv3jI" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Rush", "url": "https://open.spotify.com/track/5bFKP1I6p3n6w2a9u8b2d5" },
+      { "nome_musica": "My My My!", "url": "https://open.spotify.com/track/4NiehVtwTCg209gIM6Qx3g" },
+      { "nome_musica": "Angel Baby", "url": "https://open.spotify.com/track/2m6Ko3Nif2LDKcmIATEQKe" }
+    ]
+  },
+  {
+    "nome": "Janelle Monáe",
+    "descricao": "Artista multifacetada, pansexual e não-binária, que desafia categorizações de gênero e estilo musical, sendo uma voz potente para a liberdade de expressão.",
+    "idade": "1985",
+    "link": "https://pt.wikipedia.org/wiki/Janelle_Mon%C3%A1e",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs",
+    "albunsFamosos": [
+      { "nome_album": "Dirty Computer", "url": "https://open.spotify.com/album/2PjlaxlMunGOUBOYE3jdrd" },
+      { "nome_album": "The ArchAndroid", "url": "https://open.spotify.com/album/3R3d5vh5iR4i66p1a3h0mI" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Make Me Feel", "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH" },
+      { "nome_musica": "I Like That", "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2oG7pF1l" },
+      { "nome_musica": "Lipstick Lover", "url": "https://open.spotify.com/track/4a8I4moI6w02eS2bbtf3PF" }
+    ]
+  },
+  {
+    "nome": "Kim Petras",
+    "descricao": "Cantora pop alemã e uma das poucas artistas transgênero a alcançar sucesso global na música pop, celebrada por hinos de festa e glamour.",
+    "idade": "1992",
+    "link": "https://pt.wikipedia.org/wiki/Kim_Petras",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J",
+    "albunsFamosos": [
+      { "nome_album": "Feed The Beast", "url": "https://open.spotify.com/album/23222tCg3g29E22uC3wTtk" },
+      { "nome_album": "Clarity", "url": "https://open.spotify.com/album/5h1z3iA8E2E949I65eQfN6" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Unholy (feat. Kim Petras)", "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG" },
+      { "nome_musica": "Heart to Break", "url": "https://open.spotify.com/track/1E4x4v3w2MAoG2I3a3d3A2" },
+      { "nome_musica": "Alone (feat. Nicki Minaj)", "url": "https://open.spotify.com/track/3eQ7mI83y2k92I3l17e6aT" }
+    ]
+  },
+  {
+    "nome": "Pabllo Vittar",
+    "descricao": "Drag queen e cantora brasileira, fenômeno global que utiliza o pop e o funk para promover visibilidade queer e diversidade, atuando como um símbolo cultural no Brasil.",
+    "idade": "1994",
+    "link": "https://pt.wikipedia.org/wiki/Pabllo_Vittar",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV",
+    "albunsFamosos": [
+      { "nome_album": "Não Para Não", "url": "https://open.spotify.com/album/70fIt6lYcagG5X1dbm323T" },
+      { "nome_album": "111", "url": "https://open.spotify.com/album/336iV524B3aR5J5v5tLYyB" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "K.O.", "url": "https://open.spotify.com/track/61sR9pcFFZ1C9i3402s4Y1" },
+      { "nome_musica": "Amor de Que", "url": "https://open.spotify.com/track/043b2x2l9lG69zmM1Afe1b" },
+      { "nome_musica": "Corpo Sensual (feat. Mateus Carrilho)", "url": "https://open.spotify.com/track/3aM0aI6hY29n06m6331I8e" }
+    ]
+  },
+  {
+    "nome": "Olly Alexander",
+    "descricao": "Vocalista da banda Years & Years, abertamente gay, notável por seu ativismo e por usar a arte para explorar temas de saúde mental e a história queer.",
+    "idade": "1990",
+    "link": "https://pt.wikipedia.org/wiki/Olly_Alexander",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/32fD1sfb6b31s0IIt4D9v1",
+    "albunsFamosos": [
+      { "nome_album": "Communion (Years & Years)", "url": "https://open.spotify.com/album/0bWYlK9rRm4r60lnM2tZ4a" },
+      { "nome_album": "Palo Santo (Years & Years)", "url": "https://open.spotify.com/album/50j62f2gbh3a6e1xQ55hK8" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "King (Years & Years)", "url": "https://open.spotify.com/track/2hRL8jP266sVCFpBB7E8h3" },
+      { "nome_musica": "Desire (Years & Years)", "url": "https://open.spotify.com/track/6jS5qgR2gKS9W23n3Uv6yS" },
+      { "nome_musica": "Dizzy", "url": "https://open.spotify.com/track/56s1o2sBwGa2Yq2iLde7h5" }
+    ]
+  },
+  {
+    "nome": "Doja Cat",
+    "descricao": "Artista eclética de pop, R&B e hip hop, celebrada por sua versatilidade, performances virais e estética única que atrai uma forte base de fãs jovens e queer.",
+    "idade": "1995",
+    "link": "https://pt.wikipedia.org/wiki/Doja_Cat",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5",
+    "albunsFamosos": [
+      { "nome_album": "Planet Her", "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFr5Plq" },
+      { "nome_album": "Hot Pink", "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Say So", "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ" },
+      { "nome_musica": "Kiss Me More (feat. SZA)", "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK" },
+      { "nome_musica": "Paint The Town Red", "url": "https://open.spotify.com/track/6kLCHFM39wkFjOuyPGLGeQ" }
+    ]
+  },
+  {
+    "nome": "Mariah Carey",
+    "descricao": "A Ultimate Diva, conhecida por seu lendário alcance vocal e por ter uma das bases de fãs LGBTQIAPN+ mais devotas que adora seu status de realeza pop.",
+    "idade": "1970",
+    "link": "https://pt.wikipedia.org/wiki/Mariah_Carey",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/4iHDAfIQBTMibkCLtPOqvg",
+    "albunsFamosos": [
+      { "nome_album": "Daydream", "url": "https://open.spotify.com/album/1ibXYMog29V7fYbJPMYJ6D" },
+      { "nome_album": "The Emancipation of Mimi", "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "All I Want for Christmas Is You", "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn" },
+      { "nome_musica": "Fantasy", "url": "https://open.spotify.com/track/6xkryXuiAdamutpL5SQE0L" },
+      { "nome_musica": "We Belong Together", "url": "https://open.spotify.com/track/3LmvfNUQtglbTry3eNp6rL" }
+    ]
+  },
+  {
+    "nome": "Janet Jackson",
+    "descricao": "Ícone da dança, música e moda, admirada por sua atitude 'Control' e por ser uma aliada vocal durante a crise do HIV/AIDS nos anos 90.",
+    "idade": "1966",
+    "link": "https://pt.wikipedia.org/wiki/Janet_Jackson",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W",
+    "albunsFamosos": [
+      { "nome_album": "Rhythm Nation 1814", "url": "https://open.spotify.com/album/4u3hd2i3k5Y1LqTu3iQGyl" },
+      { "nome_album": "The Velvet Rope", "url": "https://open.spotify.com/album/6ZANEjFDP3t1A6sMy3w3iY" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "All For You", "url": "https://open.spotify.com/track/5X8kkUaGSPBae333g3T5sM" },
+      { "nome_musica": "That's The Way Love Goes", "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg" },
+      { "nome_musica": "Together Again", "url": "https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P" }
+    ]
+  },
+  {
+    "nome": "George Michael",
+    "descricao": "Lenda britânica, membro do Wham! e artista solo, um dos maiores cantores de sua geração e um importante ícone gay que lutou por sua autenticidade.",
+    "idade": "1963",
+    "link": "https://pt.wikipedia.org/wiki/George_Michael",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo",
+    "albunsFamosos": [
+      { "nome_album": "Faith", "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw" },
+      { "nome_album": "Listen Without Prejudice Vol. 1", "url": "https://open.spotify.com/album/4lGS8f3g32a4ahr2z5EFFb" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Careless Whisper", "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY" },
+      { "nome_musica": "Faith - Remastered", "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmj2vE8" },
+      { "nome_musica": "Freedom! - '90", "url": "https://open.spotify.com/track/77Iubd5tOED33i2U5333wF" }
+    ]
+  },
+  {
+    "nome": "Elton John",
+    "descricao": "Lenda britânica, um dos músicos mais vendidos de todos os tempos e um dos primeiros grandes artistas a se assumir abertamente gay, notável por seu ativismo filantrópico.",
+    "idade": "1947",
+    "link": "https://pt.wikipedia.org/wiki/Elton_John",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b",
+    "albunsFamosos": [
+      { "nome_album": "Goodbye Yellow Brick Road", "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtlfx" },
+      { "nome_album": "Diamonds", "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Rocket Man (I Think It's Going To Be A Long, Long Time)", "url": "https://open.spotify.com/track/3gd8v7WBdRpbbxUX71n2Lp" },
+      { "nome_musica": "Cold Heart - PNAU Remix", "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h" },
+      { "nome_musica": "I'm Still Standing", "url": "https://open.spotify.com/track/1jDJFeK9x3JJ5j21I3M9b0" }
+    ]
+  },
+  {
+    "nome": "Lizzo",
+    "descricao": "Cantora, rapper e flautista, símbolo de body positivity, autoamor e celebração da diversidade. Seus hinos empoderam minorias de forma vibrante.",
+    "idade": "1988",
+    "link": "https://pt.wikipedia.org/wiki/Lizzo",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS",
+    "albunsFamosos": [
+      { "nome_album": "Cuz I Love You", "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL" },
+      { "nome_album": "Special", "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "About Damn Time", "url": "https://open.spotify.com/track/1PckqMs1W7V1n8jBw8gze3" },
+      { "nome_musica": "Truth Hurts", "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4AFYiSg" },
+      { "nome_musica": "Good As Hell", "url": "https://open.spotify.com/track/6uAm7pG66O1XesXS9bpHSF" }
+    ]
+  },
+  {
+    "nome": "Ke$ha",
+    "descricao": "Conhecida por seus hinos de festa ('Party Anthems') e sua jornada de resiliência, uma forte aliada da comunidade LGBTQIAPN+ e defensora da aceitação.",
+    "idade": "1987",
+    "link": "https://pt.wikipedia.org/wiki/Kesha",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX",
+    "albunsFamosos": [
+      { "nome_album": "Animal", "url": "https://open.spotify.com/album/4dpnTTBpS71QgnyqBw66g6" },
+      { "nome_album": "Rainbow", "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "TiK ToK", "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7s1AH" },
+      { "nome_musica": "Praying", "url": "https://open.spotify.com/track/0jdny0hYx2pkQ13wZ3v3ad" },
+      { "nome_musica": "Die Young", "url": "https://open.spotify.com/track/6mnjcTMK8TewHfyOp3fC9C" }
+    ]
+  },
+  {
+    "nome": "MNEK",
+    "descricao": "Produtor e cantor britânico abertamente gay de ascendência nigeriana, influente no cenário pop e R&B contemporâneo, conhecido por suas composições sinceras.",
+    "idade": "1994",
+    "link": "https://pt.wikipedia.org/wiki/MNEK",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G",
+    "albunsFamosos": [
+      { "nome_album": "Language", "url": "https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Head & Heart (feat. MNEK)", "url": "https://open.spotify.com/track/6cx06DFP0UYUks6vOw3pd3" },
+      { "nome_musica": "Never Forget You", "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo" },
+      { "nome_musica": "Where Did You Go?", "url": "https://open.spotify.com/track/260MhM2Gz3O4I8E8J3p202" }
+    ]
+  },
+  {
+    "nome": "Ricky Martin",
+    "descricao": "O Rei do Pop Latino, um dos primeiros grandes nomes latinos a se assumir, promovendo visibilidade gay e quebrando barreiras culturais globalmente.",
+    "idade": "1971",
+    "link": "https://pt.wikipedia.org/wiki/Ricky_Martin",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ",
+    "albunsFamosos": [
+      { "nome_album": "A Quien Quiera Escuchar", "url": "https://open.spotify.com/album/375cUd86z58BaQ58o6vZso" },
+      { "nome_album": "Vuelve", "url": "https://open.spotify.com/album/3B7djG7pr1PycU2jUm3lSZ" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Livin' la Vida Loca", "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd" },
+      { "nome_musica": "La Copa de la Vida", "url": "https://open.spotify.com/track/5ss5GzR31vCE17Ha3Hn4a2" },
+      { "nome_musica": "Vente Pa' Ca (feat. Maluma)", "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46" }
+    ]
+  },
+  {
+    "nome": "Gloria Gaynor",
+    "descricao": "A voz por trás do hino 'I Will Survive', um símbolo universal de superação e força, fundamental na cultura disco e uma faixa essencial para a resiliência queer.",
+    "idade": "1949",
+    "link": "https://pt.wikipedia.org/wiki/Gloria_Gaynor",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/6V6WCbMAKn3dGomQaudhLW",
+    "albunsFamosos": [
+      { "nome_album": "Love Tracks", "url": "https://open.spotify.com/album/3v3BNtebI93k52S99g9z6E" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "I Will Survive", "url": "https://open.spotify.com/track/52r33n9k0XJheSAVbD0G6C" },
+      { "nome_musica": "Never Can Say Goodbye", "url": "https://open.spotify.com/track_id/3b94tQz2hZ16Eg333fA8G4" },
+      { "nome_musica": "Can't Take My Eyes Off You", "url": "https://open.spotify.com/track_id/7aOu7272k31n82vXy36p2g" }
+    ]
+  },
+  {
+    "nome": "Hayley Kiyoko",
+    "descricao": "Cantora e atriz americana, frequentemente referida como 'Lesbian Jesus' por focar suas músicas em experiências e romances lésbicos, trazendo representatividade essencial.",
+    "idade": "1991",
+    "link": "https://pt.wikipedia.org/wiki/Hayley_Kiyoko",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjL3BO",
+    "albunsFamosos": [
+      { "nome_album": "Expectations", "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6iFOKs2" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Girls Like Girls", "url": "https://open.spotify.com/track/3d2x853wGg33oPCWn4h48A" },
+      { "nome_musica": "Curious", "url": "https://open.spotify.com/track_id/5b573g2R3iA2V6e3595a05" },
+      { "nome_musica": "for the girls", "url": "https://open.spotify.com/track_id/3G6b1x2n3G4s09a2bC3Sjq" }
+    ]
+  },
+  {
+    "nome": "Charli XCX",
+    "descricao": "Inovadora do hyperpop e pop alternativo, adorada pela base queer por sua estética futurista, som experimental e por desafiar as normas do pop mainstream.",
+    "idade": "1992",
+    "link": "https://pt.wikipedia.org/wiki/Charli_XCX",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+    "albunsFamosos": [
+      { "nome_album": "how i'm feeling now", "url": "https://open.spotify.com/album/3a9qH2VEsSiOcj6PLGPVEg" },
+      { "nome_album": "CRASH", "url": "https://open.spotify.com/album/1Qqr4Pgim9dDrU3Z3EDCiI" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Boom Clap", "url": "https://open.spotify.com/track_id/0S1eE3s0tQnA3g3a1bJv2p" },
+      { "nome_musica": "Von Dutch", "url": "https://open.spotify.com/track_id/1VPAi5k2sX6Nf2hr4oY3oZ" },
+      { "nome_musica": "Speed Drive (From Barbie The Album)", "url": "https://open.spotify.com/track_id/3e28a2Asg7y0WAm93Fea6o" }
+    ]
+  },
+  {
+    "nome": "Adam Lambert",
+    "descricao": "Vocalista americano, notável por sua poderosa voz, por ser um dos primeiros artistas gays a alcançar sucesso mainstream e por ser o vocalista atual da banda Queen.",
+    "idade": "1982",
+    "link": "https://pt.wikipedia.org/wiki/Adam_Lambert",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7",
+    "albunsFamosos": [
+      { "nome_album": "For Your Entertainment", "url": "https://open.spotify.com/album/0cJSKff9fd3h5M786U24rL" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Whataya Want from Me", "url": "https://open.spotify.com/track_id/2rDwdvBma1O1eLg9BZH3m6" },
+      { "nome_musica": "Ghost Town", "url": "https://open.spotify.com/track_id/44w0mOCo32iV5l23Z3A66I" },
+      { "nome_musica": "If I Had You", "url": "https://open.spotify.com/track_id/2opQ1t8FvYj99y5Ldf2v5M" }
+    ]
+  },
+  {
+    "nome": "Anitta",
+    "descricao": "Cantora, compositora e empresária brasileira, uma das maiores expoentes do pop e funk carioca, conhecida por sua carreira internacional e por levar a cultura brasileira para o mundo.",
+    "idade": "1993",
+    "link": "https://pt.wikipedia.org/wiki/Anitta",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/7FNnA9vRWW1aws7rGSLuDE",
+    "albunsFamosos": [
+      { "nome_album": "Kisses", "url": "https://open.spotify.com/album/2eYkIah2g0m2n5824d2t4G" },
+      { "nome_album": "Versions of Me", "url": "https://open.spotify.com/album/2TPl41Riu1Rbi7zH3p3drK" },
+      { "nome_album": "Funk Generation", "url": "https://open.spotify.com/album/3sFwr3AA7g6J4r3eY54tqF" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Envolver", "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI" },
+      { "nome_musica": "Downtown (with J Balvin)", "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D" },
+      { "nome_musica": "Vai Malandra (feat. Tropkillaz & DJ Yuri Martins)", "url": "https://open.spotify.com/track/6u0EAxf1O02a3V2e06n3n8" }
+    ]
+  },
+  {
+    "nome": "Ludmilla",
+    "descricao": "Cantora e compositora brasileira, uma das vozes mais potentes do funk e pagode, celebrada por sua versatilidade musical e por ser a primeira mulher negra a vencer a categoria de 'Melhor Álbum de Samba/Pagode' no Grammy Latino.",
+    "idade": "1995",
+    "link": "https://pt.wikipedia.org/wiki/Ludmilla_(cantora)",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi",
+    "albunsFamosos": [
+      { "nome_album": "Numanice #2", "url": "https://open.spotify.com/album/5xm4qlyamtsoV536p24K2D" },
+      { "nome_album": "A Danada Sou Eu", "url": "https://open.spotify.com/album/36a2bN31I93T4aI04p2M6A" },
+      { "nome_album": "VILÃ", "url": "https://open.spotify.com/album/2tBqBU33p0t5P3d2422z1M" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Hoje", "url": "https://open.spotify.com/track/0j0g2yY5C3s2s2t4i2aW3z" },
+      { "nome_musica": "Cheguei", "url": "https://open.spotify.com/track/11I3n5GSk3s03s22a9o2aE" },
+      { "nome_musica": "Maldivas", "url": "https://open.spotify.com/track/12GSy6bA1j3t3mB6aG3tq0" }
+    ]
+  },
+  {
+    "nome": "IZA",
+    "descricao": "Cantora e compositora brasileira, dona de uma voz poderosa e presença de palco marcante. Suas músicas misturam pop, R&B e ritmos brasileiros, com letras que exaltam o empoderamento e a cultura negra.",
+    "idade": "1990",
+    "link": "https://pt.wikipedia.org/wiki/Iza",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes",
+    "albunsFamosos": [
+      { "nome_album": "Dona de Mim", "url": "https://open.spotify.com/album/6T63i20T2B8t2i53f3tZ6s" },
+      { "nome_album": "AFRODHIT", "url": "https://open.spotify.com/album/2p32g22p3zB32iLg5n3gq8" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "Pesadão (feat. Marcelo Falcão)", "url": "https://open.spotify.com/track/2nPYs5K4Wj24I2Ze9C4M8e" },
+      { "nome_musica": "Dona de Mim", "url": "https://open.spotify.com/track/6y3gA8A2A13zZ34i4s253D" },
+      { "nome_musica": "Brisa", "url": "https://open.spotify.com/track/5r25a3kS2e4f0E33c339hA" }
+    ]
+  },
+  {
+    "nome": "Gloria Groove",
+    "descricao": "Drag queen, cantora, rapper e compositora, um dos maiores nomes da cena pop e drag brasileira. Conhecida por sua versatilidade musical, que vai do pop ao funk e R&B, e por suas performances icônicas.",
+    "idade": "1995",
+    "link": "https://pt.wikipedia.org/wiki/Gloria_Groove",
+    "spotifyProfileUrl": "https://open.spotify.com/artist/7rXMvXRnWH3msU3iUa10p5",
+    "albunsFamosos": [
+      { "nome_album": "LADY LESTE", "url": "https://open.spotify.com/album/41ThegoT62b9NLq2I452Z3" },
+      { "nome_album": "O Proceder", "url": "https://open.spotify.com/album/5322mmgG4f2YLm27I3S4s1" }
+    ],
+    "musicasFamosas": [
+      { "nome_musica": "A QUEDA", "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUo2Maw" },
+      { "nome_musica": "BONEKINHA", "url": "https://open.spotify.com/track/7908z63u2u4G3430iUEd0a" },
+      { "nome_musica": "VERMELHO", "url": "https://open.spotify.com/track/5AeuoNq1Sj3f4aI353S3bY" }
+    ]
+  }
+]
